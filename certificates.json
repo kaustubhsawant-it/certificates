@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Kaustubh Sawant",
+        "topic": "Linear Algebra",
+        "week": "Week 1",
+        "module": "Matrix Basics",
+        "course_code": "LA",
+        "date": "2025-06-30",
+        "cert_id": "LA-2025-000001",
+        "verify_url": "https://github.com/kaustubhsawant-it/certificates/blob/main/certs/LA-2025-000001_Kaustubh_Sawant.png"
+    },
+    {
+        "name": "Alisha Shaikh",
+        "topic": "Linear Algebra",
+        "week": "Week 1",
+        "module": "Matrix Basics",
+        "course_code": "LA",
+        "date": "2025-06-30",
+        "cert_id": "LA-2025-000002",
+        "verify_url": "https://github.com/kaustubhsawant-it/certificates/blob/main/certs/LA-2025-000002_Alisha_Shaikh.png"
+    },
+    {
+        "name": "Kulsum Shaikh",
+        "topic": "Linear Algebra",
+        "week": "Week 1",
+        "module": "Matrix Basics",
+        "course_code": "LA",
+        "date": "2025-06-30",
+        "cert_id": "LA-2025-000003",
+        "verify_url": "https://github.com/kaustubhsawant-it/certificates/blob/main/certs/LA-2025-000003_Kulsum_Shaikh.png"
+    }
+]
